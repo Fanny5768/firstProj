@@ -29,5 +29,6 @@ class PythonStudent():
 yueyue = PythonStudent()
 print(yueyue.name)
 print(yueyue.age)
+print(yueyue.course)
 #注意成员函数的调用没有传入参数
 yueyue.doHomework()
